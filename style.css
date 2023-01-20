@@ -1,0 +1,28 @@
+body{
+    font-size: 15px;
+    color: purple;
+}
+
+.container{
+    border: 30px;
+    padding: 10px 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 20px;
+    background-color: cyan;
+    margin: 20% 40%;
+}
+img{
+    border-radius: 20px;
+}
+.Box1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+    font-weight: 700;
+}
+.Box2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    font-weight: 400;
+}
